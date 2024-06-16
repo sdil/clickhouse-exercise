@@ -1,5 +1,3 @@
-The hands-on exercise for my Clickhouse training.
-
 # Case Study: Aquaculture startup
 
 Imagine that you're building an aquaculture startup that provide monitoring for fisheries. You're now designing a system that collects metrics from IoT devices deployed on the field. We are going to use Clickhouse to store the data to fulfill the requirements as below.
